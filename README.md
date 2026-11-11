@@ -33,19 +33,14 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
- 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=supansa-sasasa&show_icons=true&theme=tokyonight&hide_border=true%22 height="154" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thammarat-ai&layout=compact&theme=tokyonight&hide_border=true%22 height="154" />
- 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Prachyawarin-nin&show_icons=true&theme=tokyonight&hide_border=true%22height=%22165%22 />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prachyawarin-nin&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
 <br/><br/>
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
- 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachyawarin-nin&theme=react-dark&hide_border=true%22 width="100%" />
 </div>
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)(https://facebook.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/supansa.wangwanawat?mibextid=wwXIfr&rdid=NXU5oARlWdm3isb1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MCDA59Bdz%2F%3Fmibextid%3DwwXIfr#)
